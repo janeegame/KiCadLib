@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CJT1117B-XXX
+K LDO
+$ENDCMP
+#
 $CMP Connector_DC00X
 K 电源插座母座
 $ENDCMP
