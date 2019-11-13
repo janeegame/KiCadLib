@@ -1,11 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AHT10
+K sensor
+$ENDCMP
+#
 $CMP CJT1117B-XXX
 K LDO
 $ENDCMP
 #
 $CMP Connector_DC00X
 K 电源插座母座
+$ENDCMP
+#
+$CMP SW-PushButton
+K 轻触按键
+$ENDCMP
+#
+$CMP TXS0108EPWR
+K voltage-level translator
 $ENDCMP
 #
 #End Doc Library
